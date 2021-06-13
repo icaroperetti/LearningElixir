@@ -1,5 +1,5 @@
 # Bank
 
-**Learning Elixir**
+**Learning Elixir basics**
 
 
